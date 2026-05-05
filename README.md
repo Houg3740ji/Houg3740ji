@@ -19,7 +19,7 @@ Coffee-fueled. Arquitectura y negocios de día, código de noche.
 I think in systems — whether it's a city, a company or a codebase.
 
 ## 📊 Stats
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Houg3740ji&show_icons=true&theme=dark&hide_border=true)
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Houg3740ji&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Houg3740ji&layout=compact&theme=dark&hide_border=true)
 
