@@ -4,9 +4,23 @@ I build things that reason, not just run.
 Backend by default, AI when it matters.
 
 ## 🛠 Stack
+**Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**AI Models**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-000000?style=flat&logoColor=white)
+
+**APIs**
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-CC785C?style=flat&logo=anthropic&logoColor=white)
+
+**DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 🔭 What I'm working on
