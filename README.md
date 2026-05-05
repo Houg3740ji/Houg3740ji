@@ -18,10 +18,6 @@ Turning messy real-world problems into clean automated solutions.
 Coffee-fueled. Arquitectura y negocios de día, código de noche.
 I think in systems — whether it's a city, a company or a codebase.
 
-## 📊 Stats
-![Hugo's GitHub stats](https://streak-stats.demolab.com?user=Houg3740ji&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Houg3740ji&layout=compact&theme=dark&hide_border=true)
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo_Jiménez-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hugo-jiménez-herrero-514ba3305)
